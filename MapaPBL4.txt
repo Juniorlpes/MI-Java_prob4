@@ -1,0 +1,90 @@
+Maiores cidades da Bahia
+Salvador ; 35;30
+Feira de Santana ; 0;0
+Simoes Filho ; 18;13
+Camacari ; 35;0
+Lauro de Freitas ; 38;15
+Candeias ; 7;30
+Alagoinhas ; 20;-23
+Santo Antonio de Jesus ; -20;40
+Valenca ; 0;65
+Ilheus ; 0;140
+Itabuna ; -15;140
+Porto Seguro ; -5;200
+Teixeira de Freitas ; -35;240
+Itapetinga ; -45;155
+Vitoria da Conquista ; -70;135
+Jequie ; -40;70
+Dias d'Avila ; 35;-10
+Luis Eduardo Magalhaes ; -330;10
+Barreiras ; -300;10
+Serrinha ; 0;-40
+Brumado ; -100;120
+Guanambi ; -130;120
+Paulo Afonso ; 40;-138
+Juazeiro ; -80;-135
+Casa Nova ; -105;-155
+Eunapolis ; -30;200
+Jacobina ; -80;-70
+Campo Formoso ; -90;-95
+Senhor do Bonfim ; -70;-100
+Irece ; -150;-60
+Distancia entre cidades
+Feira de Santana ; Simoes Filho ; 90
+Feira de Santana ; Camacari ; 95
+Feira de Santana ; Alagoinhas ; 80
+Feira de Santana ; Candeias ; 70
+Feira de Santana ; Serrinha ; 70
+Feira de Santana ; Jequie ; 250
+Feira de Santana ; Santo Antonio de Jesus ; 115
+Feira de Santana ; Barreiras ; 755
+Feira de Santana ; Senhor do Bonfim ; 265
+Feira de Santana ; Brumado ; 420
+Feira de Santana ; Jacobina ; 225
+Feira de Santana ; Irece ; 365
+Senhor do Bonfim ; Juazeiro ; 125
+Senhor do Bonfim ; Campo Formoso ; 25
+Santo Antonio de Jesus ; Ilheus ; 265
+Santo Antonio de Jesus ; Alagoinhas ; 155
+Santo Antonio de Jesus ; Valenca ; 75
+Alagoinhas ; Paulo Afonso ; 350
+Juazeiro ; Casa Nova ; 70
+Juazeiro ; Paulo Afonso ; 365
+Barreiras ; Luis Eduardo Magalhaes ; 90
+Serrinha ; Paulo Afonso ; 310
+Simoes Filho ; Salvador ; 30
+Simoes Filho ; Camacari ; 25
+Simoes Filho ; Lauro de Freitas ; 25
+Simoes Filho ; Alagoinhas ; 90
+Candeias ; Alagoinhas ; 80
+Candeias ; Camacari ; 30
+Candeias ; Simoes Filho ; 24
+Camacari ; Dias d'Avila ; 15
+Salvador ; Valenca ; 125
+Salvador ; Lauro de Freitas ; 30
+Lauro de Freitas ; Camacari ; 38
+Jequie ; Itapetinga ; 220
+Jequie ; Vitoria da Conquista ; 155
+Jequie ; Senhor do Bonfim ; 485
+Vitoria da Conquista ; Brumado ; 140
+Vitoria da Conquista ; Itapetinga ; 100
+Eunapolis ; Teixeira de Freitas ; 160
+Eunapolis ; Itabuna ; 215
+Eunapolis ; Porto Seguro ; 60
+Eunapolis ; Itapetinga ; 200
+Valenca ; Ilheus ; 175
+Valenca ; Itabuna ; 195
+Itabuna ; Santo Antonio de Jesus ; 245
+Itabuna ; Ilheus ; 30
+Itapetinga ; Itabuna ; 140
+Brumado ; Guanambi ; 140
+Brumado ; Barreiras ; 550
+Barreiras ; Guanambi ;450
+Casa Nova ; Barreiras ; 735
+Guanambi ; Jacobina ; 600
+Guanambi ; Irece ; 440
+Irece ; Jacobina ; 195
+Jacobina ; Senhor do Bonfim ; 110
+Jacobina ; Paulo Afonso ; 470
+Senhor do Bonfim ; Paulo Afonso ; 400
+Paulo Afonso ; Juazeiro ; 370

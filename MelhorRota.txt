@@ -1,0 +1,20 @@
+A melhor rota de ida e volta é: 
+
+Feira de Santana 
+Jequie 
+Itapetinga 
+Eunapolis 
+Teixeira de Freitas 
+Eunapolis 
+Itapetinga 
+Itabuna 
+Valenca 
+Santo Antonio de Jesus 
+Feira de Santana 
+Barreiras 
+Feira de Santana 
+
+Você vai gastar ao todo: 850.0 Reais
+porque a distancia foi de 1700km
+seu carro faz 10.0km por litro
+e a gasolina está de 5.0 o litro
